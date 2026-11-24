@@ -5,6 +5,6 @@ He trabajado como responsable de IT en una empresa de marketing: desarrollo
 de un CRM propio, automatizaciones, generación de webs y administración de
 servidores y bases de datos.
 
-**Tecnologías:** Python · TypeScript · AWS · Google Cloud · APIs y webhooks · bases de datos
+**Tecnologías:** Python · PHP (Laravel) · JavaScript/TypeScript (Node.js) · MySQL · AWS · Google Cloud · Docker · APIs y webhooks
 
 **Ahora mismo:** terminando mi TFG y buscando prácticas o empleo.
